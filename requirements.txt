@@ -1,0 +1,9 @@
+opencv-python
+scipy
+pandas
+tqdm
+scikit-learn
+python_speech_features
+scenedetect
+gdown
+youtube-dl
